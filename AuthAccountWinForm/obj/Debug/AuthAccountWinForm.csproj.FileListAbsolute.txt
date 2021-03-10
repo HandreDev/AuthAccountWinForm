@@ -1,0 +1,11 @@
+C:\Users\Handre\Documents\Repo\AuthAccountWinForm\AuthAccountWinForm\bin\Debug\AuthAccountWinForm.exe.config
+C:\Users\Handre\Documents\Repo\AuthAccountWinForm\AuthAccountWinForm\bin\Debug\AuthAccountWinForm.exe
+C:\Users\Handre\Documents\Repo\AuthAccountWinForm\AuthAccountWinForm\bin\Debug\AuthAccountWinForm.pdb
+C:\Users\Handre\Documents\Repo\AuthAccountWinForm\AuthAccountWinForm\obj\Debug\AuthAccountWinForm.csprojAssemblyReference.cache
+C:\Users\Handre\Documents\Repo\AuthAccountWinForm\AuthAccountWinForm\obj\Debug\AuthAccountWinForm.Form1.resources
+C:\Users\Handre\Documents\Repo\AuthAccountWinForm\AuthAccountWinForm\obj\Debug\AuthAccountWinForm.Properties.Resources.resources
+C:\Users\Handre\Documents\Repo\AuthAccountWinForm\AuthAccountWinForm\obj\Debug\AuthAccountWinForm.csproj.GenerateResource.cache
+C:\Users\Handre\Documents\Repo\AuthAccountWinForm\AuthAccountWinForm\obj\Debug\AuthAccountWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Handre\Documents\Repo\AuthAccountWinForm\AuthAccountWinForm\obj\Debug\AuthAccountWinForm.exe
+C:\Users\Handre\Documents\Repo\AuthAccountWinForm\AuthAccountWinForm\obj\Debug\AuthAccountWinForm.pdb
+C:\Users\Handre\Documents\Repo\AuthAccountWinForm\AuthAccountWinForm\obj\Debug\AuthAccountWinForm.StartUp.resources
